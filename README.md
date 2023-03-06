@@ -1,7 +1,9 @@
-# Android App in Java
+# Calculator App in Java
 
-# App Interface
-![Calculator1](https://user-images.githubusercontent.com/116191602/222102467-ada86b63-d3f6-466f-a2d0-ef02abac9635.jpg)
+# App Working
 
-![Calculator2](https://user-images.githubusercontent.com/116191602/222102789-19ab920c-4290-4918-8c82-908faec49ccf.jpg)
+
+
+https://user-images.githubusercontent.com/116191602/223024746-c555a9cd-88b9-4d28-bf9d-0691230ffa86.mp4
+
 
